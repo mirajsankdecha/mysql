@@ -18,3 +18,4 @@ INSERT INTO
     ('Rajesh Joshi',25,'Bhavnagar',500000),
     ('Rajesh Desai',26,'Jamnagar',400000),
     ('Rajesh Trivedi',27,'Junagadh',300000);
+
